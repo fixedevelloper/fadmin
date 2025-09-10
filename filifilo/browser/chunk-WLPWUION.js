@@ -1,0 +1,1 @@
+import{wa as i}from"./chunk-NYIA7WMS.js";var a=(()=>{let t=class t{transform(e){return e==null?"":`${e.toLocaleString("fr-CM")} XAF`}};t.\u0275fac=function(n){return new(n||t)},t.\u0275pipe=i({name:"xafCurrency",type:t,pure:!0,standalone:!0});let r=t;return r})();export{a};
